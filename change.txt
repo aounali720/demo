@@ -1,0 +1,6 @@
+this is for ht git the staash command practice to make it simpler
+using commit 
+add
+reset command of git 
+with bash
+
